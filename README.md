@@ -4,7 +4,7 @@ A simple bank turffle project.
   
 Compile contracts:
 ```shell
-  truffle build
+  truffle compile
 ```
 
 Migrate:
